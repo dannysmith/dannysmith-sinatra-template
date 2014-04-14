@@ -25,3 +25,6 @@ and have a new little project called foo. If I need to put it on github:
       → git push origin
 
 Magic.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/dannysmith-sinatra-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
